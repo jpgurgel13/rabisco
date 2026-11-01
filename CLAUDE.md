@@ -30,6 +30,7 @@ João Pedro (Jp), dev front-end **iniciante**, aprendendo React + TypeScript na 
 
 ## Regras de código
 
+- **Sem comentários no código.** As explicações vão na conversa, não nos arquivos.
 - Nada de biblioteca, abstração ou arquitetura que o problema não peça.
 - Nomes didáticos, que digam o que a coisa guarda (molde, dados, lista). Nunca nomes parecidos demais entre si (`nota.ts` × `notas.ts`).
 - `interface` para objetos; `type` para uniões (`"amarelo" | "salmao" | "azul"`).
