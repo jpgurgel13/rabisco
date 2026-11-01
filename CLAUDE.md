@@ -82,4 +82,5 @@ João Pedro (Jp), dev front-end **iniciante**, aprendendo React + TypeScript na 
 ## Onde estamos
 
 - Projeto criado e template limpo.
-- **Próxima tarefa:** o desafio dos **moldes das notas** (tipos de nota de texto, nota de lista, item, cor e modelo, e a união `Nota`). É exercício meu: dê só dicas e revise o que eu escrever, **sem escrever os tipos por mim**. Commit: `feat: cria os moldes das notas`.
+- Moldes das notas em `src/moldes.ts` (`Nota` = `NotaDeTexto | NotaDeLista`, etiqueta `tipo`). Importe com `import type`, porque o projeto usa `verbatimModuleSyntax`.
+- **Próxima tarefa:** o primeiro post-it na tela, só a estrutura (JSX), com notas de exemplo.
